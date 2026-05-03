@@ -1,1 +1,4 @@
 project_id = "efyimbyjheimdygiftbc"
+
+[functions.image-to-prompt]
+verify_jwt = false
